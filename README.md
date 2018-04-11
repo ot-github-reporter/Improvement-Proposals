@@ -2,10 +2,6 @@
 
 The purpose of OriginTrail’s Improvement Proposals repository is to enable structured submitting of an idea or any kind of improvement suggestion.
 
-If you are not a GitHub user, you can fill out improvement proposals form on OriginTrail website.
-
-Link: https://origintrail.io/improvement-proposal
-
 
 In case you would like to give any improvements to the code you should use OriginTrail/ot-node repository.
 
